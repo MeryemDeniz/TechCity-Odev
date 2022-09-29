@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCity_App", "TechCity_App\TechCity_App.csproj", "{50FFFF95-85A7-4F4B-930A-670C1B8FB02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCity_Lib", "TechCity_Lib\TechCity_Lib.csproj", "{0AC04F22-EC53-4B4A-BBD6-482AAD985299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FFFF95-85A7-4F4B-930A-670C1B8FB02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FFFF95-85A7-4F4B-930A-670C1B8FB02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FFFF95-85A7-4F4B-930A-670C1B8FB02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FFFF95-85A7-4F4B-930A-670C1B8FB02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC04F22-EC53-4B4A-BBD6-482AAD985299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC04F22-EC53-4B4A-BBD6-482AAD985299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC04F22-EC53-4B4A-BBD6-482AAD985299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC04F22-EC53-4B4A-BBD6-482AAD985299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DE2CD4-98CA-4D32-AA7C-6074ECA14978}
+	EndGlobalSection
+EndGlobal
